@@ -1,0 +1,12 @@
+{
+    "files": {
+        "README.md": "1a9a85d80dc2ae28967943eedcf66175e8831bfdbd2bcb5a2f34815c4b21e229",
+        "index.js": "569b6b9b667bcd0de3874d7dcda001dfdff246c3f5e26c7b4355c31f821c3b42",
+        "module.json": "f147c9ab1184756919eeaff428463deacd92017ba36631031f1b1f0d7249127b"
+    },
+    "defs": {
+        "C_CHAT": 1,
+        "C_WHISPER": 1,
+        "S_NPC_MENU_SELECT": 1
+    }
+}
